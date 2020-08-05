@@ -1,0 +1,14 @@
+Ragno: IOC List. 
+
+
+ Contacted IPs: 
+
+
+ Contacted URLs: 
+
+
+ Similar files (sha256): 
+ e2677ba29ed8f93adb6aebc5c18a8bf6eacc2548682d59eaae7f442a279dc07c 
+
+ Similar files (sha256): 
+ schemas.microsoft.com 
